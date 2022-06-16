@@ -20,7 +20,7 @@ sections:
       - title: "Екскурсія по Скала"
         description: "Короткі введення в основні особливості мови."
         icon: "fa fa-flag"
-        link: /tour/tour-of-scala.html
+        link: /uk/tour/tour-of-scala.html
       - title: "Книга по Scala 3"
         description: "Вивчи Scala, прочитавши серію коротких уроків."
         icon: "fa fa-book-open"
