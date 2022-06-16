@@ -1,7 +1,7 @@
 ---
 layout: style-guide
 title: Files
-languages: [uk]
+language: uk
 partof: style
 overview-name: "Style Guide"
 

@@ -51,7 +51,7 @@ sections:
       - title: "Довідник по стилю"
         description: "Поглиблений посібник з написання ідіоматичного коду на Scala."
         icon: "fa fa-bookmark"
-        link: /style/index.html
+        link: /uk/style/index.html
       - title: "Шпаргалка"
         description: "Зручна шпаргалка з основ синтаксису Scala."
         icon: "fa fa-list"

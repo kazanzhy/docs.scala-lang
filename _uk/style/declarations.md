@@ -1,7 +1,7 @@
 ---
 layout: style-guide
 title: Declarations
-languages: [uk]
+language: uk
 partof: style
 overview-name: "Style Guide"
 

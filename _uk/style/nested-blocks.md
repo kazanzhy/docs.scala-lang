@@ -1,7 +1,7 @@
 ---
 layout: style-guide
 title: Nested Blocks
-languages: [uk]
+language: uk
 partof: style
 overview-name: "Style Guide"
 

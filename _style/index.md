@@ -1,6 +1,7 @@
 ---
 layout: style-guide
 title: Scala Style Guide
+languages: [uk]
 partof: style
 overview-name: "&nbsp;"
 ---

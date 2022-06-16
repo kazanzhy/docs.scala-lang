@@ -1,7 +1,7 @@
 ---
 layout: style-guide
 title: Naming Conventions
-
+languages: [uk]
 partof: style
 overview-name: "Style Guide"
 
